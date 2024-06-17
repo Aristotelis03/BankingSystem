@@ -1,17 +1,9 @@
 ﻿# Banking System
 ## About
 The text-to-speech application, created with Python, is designed to quickly and easily convert text into spoken words, making it convenient and user-friendly.
-
-## Features
-
-
-
 ![Screenshot 2024-06-17 113335](https://github.com/Aristotelis03/BankingSystem/assets/122119588/cab617c1-9888-4fa6-951e-46a2a3b3e69f)
 
-
-
-
-
+## Features
 ### Login And Register System
 Users can easily create theirs accounts and access them using the auto generated credit card and pin.
 | Register | Login |
