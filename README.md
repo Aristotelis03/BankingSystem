@@ -15,11 +15,10 @@ The text-to-speech application, created with Python, is designed to quickly and 
 Users can easily create theirs accounts and access them using the auto generated credit card and pin.
 | Command | Description |
 | --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+|![Screenshot 2024-06-17 120138](https://github.com/Aristotelis03/BankingSystem/assets/122119588/05fda907-5c4d-47bd-a116-a8ef9918c5a3) |![Screenshot 2024-06-17 120101](https://github.com/Aristotelis03/BankingSystem/assets/122119588/a650a545-e52b-41a5-aa2d-72817220019e)
+|
 
-![Screenshot 2024-06-17 120138](https://github.com/Aristotelis03/BankingSystem/assets/122119588/05fda907-5c4d-47bd-a116-a8ef9918c5a3)
-![Screenshot 2024-06-17 120101](https://github.com/Aristotelis03/BankingSystem/assets/122119588/a650a545-e52b-41a5-aa2d-72817220019e)
+
 
 ### Banking transactions
 Users can make acctions like withdraw , Deposit and Transfer
