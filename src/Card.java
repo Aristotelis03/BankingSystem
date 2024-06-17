@@ -34,7 +34,7 @@ public class Card {
 
         String jdbcUrl = "jdbc:oracle:thin:@localhost:1521:XE"; // Note the "XE" SID
         String username = "SYSTEM";
-        String password = "21372003";
+        String password = "000000";
 
         try {
             Connection connection = DriverManager.getConnection(jdbcUrl,username,password);
